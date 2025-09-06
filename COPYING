@@ -1,0 +1,12 @@
+This repository contains code originally derived from the Android Open Source Project
+and other sources licensed under the Apache License, Version 2.0.
+
+Modifications made by Nate in 2025 are licensed under the GNU General Public License,
+version 3 (strictly, not "or later"). As a result, the combined work is governed by
+the terms of the GNU General Public License v3.
+
+Original code remains available under the Apache License, Version 2.0. However, due
+to the inclusion of GPLv3-only modifications, redistribution of this repository as a
+whole must comply with the GNU General Public License v3.
+
+See the file COPYING for the full text of the GPLv3.

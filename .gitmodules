@@ -39,9 +39,9 @@
 	path = vendor/libziparchive
 	url = https://android.googlesource.com/platform/system/libziparchive
 [submodule "vendor/adb"]
-	shallow = true
-	path = vendor/adb
-	url = https://android.googlesource.com/platform/packages/modules/adb.git
+  shallow = true
+  path = vendor/adb
+  url = https://github.com/nearest-river/adb.git
 [submodule "vendor/logging"]
 	shallow = true
 	path = vendor/logging
